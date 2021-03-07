@@ -19,7 +19,7 @@
    |                      |    *Java*    |
    |                      |   *Python*   |
 
-  #Contato: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jezreel-dalcin-a758231a2)](https://www.linkedin.com/in/jezreel-dalcin-a758231a2), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jezreel.dalcin30@gmail.com)](mailto:jezreel.dalcin30@gmail.com)
+  # Contato: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jezreel-dalcin-a758231a2)](https://www.linkedin.com/in/jezreel-dalcin-a758231a2), [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jezreel.dalcin30@gmail.com)](mailto:jezreel.dalcin30@gmail.com)
   
  # Obrigado pela visita! :call_me_hand:
 
