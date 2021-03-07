@@ -1,12 +1,12 @@
 ### Hello 👋 
 
-[![Linkdin Badge]https://www.linkedin.com/in/jezreel-dalcin-a758231a2]
+
 
 
 
 <!--
 **Je-12/je-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkdin Badge]https://www.linkedin.com/in/jezreel-dalcin-a758231a2]
 Meu nome é Jezreel  
  - Sou estudante de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA
  - Professor de Informatica - Telecentro Reciclar
