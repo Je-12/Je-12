@@ -1,9 +1,11 @@
-### Olá 👋 Meu nome é Jezreel  
+### Hello 👋 
+<!--
+**Je-12/je-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Meu nome é Jezreel  
  - Sou um jovem apaixonado por Front end 
  - Estudante de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA
  - Fã de Star Wars 
-<!--
-**Je-12/je-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
