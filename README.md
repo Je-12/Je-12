@@ -1,7 +1,7 @@
 ### Hello 👋 
 
 
-<script src = "//platform.linkedin.com/in.js" type = "text/javascript"> lang:pt_BR</script><script type = "IN/Share" data-url = "https://www.linkedin.com/in/jezreel-dalcin-a758231a2]"
+<script src = "//platform.linkedin.com/in.js" type = "text/javascript"> lang:pt_BR</script><script type = "IN/Share" data-url = "https://www.linkedin.com/in/jezreel-dalcin-a758231a2]"</script>
 
 
 <!--
