@@ -1,4 +1,4 @@
-### Hello 👋 Meu nome é Jezreel  
+### Olá 👋 Meu nome é Jezreel  
  - Sou um jovem apaixonado por Front end 
  - Estudante de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA
  - Fã de Star Wars 
