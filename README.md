@@ -15,7 +15,7 @@
    | :------------------: | :----------: |
    |    *Criatividade*    |   *HTML 5*   |
    | *Gestão de Pessoas*  |   *CSS 3*    |
-   | *Trabalho em equipe* | *Javascript* |
+   | *Trabalho em equipe* | *JavaScript* |
    |                      |    *Java*    |
    |                      |   *Python*   |
 
