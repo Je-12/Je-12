@@ -9,9 +9,9 @@
 
  - Fã de Star Wars :black_heart:
 
-    ## 											Habilidades											 
+    ## 								Habilidades											 
 
-   |        Human         | Development  |
+   |     Soft Skills      |  Development |
    | :------------------: | :----------: |
    |    *Criatividade*    |   *HTML 5*   |
    | *Gestão de Pessoas*  |   *CSS 3*    |
