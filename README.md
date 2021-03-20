@@ -3,7 +3,7 @@
 
  - Sou estudante de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
- - Professor de Informatica - Telecentro Reciclar :man_teacher:
+ - Atualmente Professor de Informatica - Telecentro Reciclar :man_teacher:
 
  - Apaixonado por Front-End :heart_eyes: 
 
