@@ -9,7 +9,7 @@
 
  - Fã de Star Wars :black_heart:
 
-  <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif" width="230">
+  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d296dd68040289.5b4f1d967b1ee.gif" width="230">
   
 
   ## 							Habilidades											 
