@@ -5,7 +5,7 @@
 
  - Atualmente QA | Automatizador de Testes - Yaman 👨‍💻
 
- - Apaixonado por Analise e wertyuDesenvolvimento :heart_eyes: 
+ - Apaixonado por Analise e Desenvolvimento :heart_eyes: 
  
  - Fã de Star Wars :black_heart:
   
