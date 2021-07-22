@@ -20,7 +20,7 @@
    | *Ética Profissional*    |           *Java*            |
    |  *Espirito de equipe*   |   *Cucumber/Gherkin (BDD)*  |
    | *Pratica em Solucionar* |           *JUnit*           |
-   |   *Ótimo em motivar*    |           *Maven*           |
+   |   *Ótimo em motivar*    |        *Apache Maven*       |
    |      *Paciência*        |     *Selenium WebDriver*    |
    |    *Flexibilidade*      |         *JavaScript*        |
 
