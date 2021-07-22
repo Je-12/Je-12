@@ -1,5 +1,5 @@
-##  Welcome :v: 
- # Meu nome é Jezreel 
+##  Bem vindo ✌️
+ # Meu nome é Jezreel 👓
 
  - Graduando em Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
