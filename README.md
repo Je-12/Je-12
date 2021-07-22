@@ -1,7 +1,7 @@
 ##  Bem vindo ✌️
- # Meu nome é Jezreel 👓
+ # Meu nome é Jezreel 🙋‍♂️
 
- - Graduando em Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
+ - Estou graduando o curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
  - Atualmente QA | Automatizador de Testes - Yaman 👨‍💻
 
