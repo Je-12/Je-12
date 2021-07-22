@@ -5,7 +5,7 @@
 
  - Atualmente QA | Automatizador de Testes - Yaman 👨‍💻
 
- - Apaixonado por Desenvolvimento :heart_eyes: 
+ - Apaixonado por Analise e wertyuDesenvolvimento :heart_eyes: 
  
  - Fã de Star Wars :black_heart:
   
@@ -18,7 +18,7 @@
    |    *Criatividade*       |           *HTML 5*          |
    | *Gestão de Pessoas*     |           *CSS 3*           |
    | *Ética Profissional*    |           *Java*            |
-   |  *Espirito de equipe*   |   *cucumber/Gherkin (BDD)*  |
+   |  *Espirito de equipe*   |   *Cucumber/Gherkin (BDD)*  |
    | *Pratica em Solucionar* |           *JUnit*           |
    |   *Ótimo em motivar*    |           *Maven*           |
    |      *Paciência*        |     *Selenium WebDriver*    |
