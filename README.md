@@ -1,5 +1,5 @@
-##  Bem vindo ✌️
- # Meu nome é Jezreel 🙋‍♂️
+# Olá, Meu nome é Jezreel! ✌
+## Seja muito bem vindo ao meu Github 🥳
 
  - Graduando o curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
