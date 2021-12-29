@@ -5,7 +5,7 @@
 
  - Atuando como QA | Automatizador de Testes Jr - Yaman 👨‍💻
 
- - Apaixonado por Analise e Desenvolvimento :heart_eyes: 
+ - Apaixonado por Tecnologia :heart_eyes: 
  
  - Fã de Star Wars :black_heart:
   
