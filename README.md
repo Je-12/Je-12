@@ -1,7 +1,7 @@
 # Olá, meu nome é Jezreel!
 ## Seja bem vindo ao meu Github 🥳
 
- - Graduando o curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
+ - Graduado no curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
  - Atuando como QA | Automatizador de Testes Jr - Yaman 👨‍💻
 
