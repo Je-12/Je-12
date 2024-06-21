@@ -3,7 +3,7 @@
 
  - Graduado no curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
- - Programador Full Stack Developer | Test Automation 👨‍💻
+ - Full Stack Developer | Test Automation 👨‍💻
 
  - Apaixonado por Tecnologia :heart_eyes: 
  
