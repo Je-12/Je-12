@@ -3,7 +3,7 @@
 
  - Graduado no curso de Análise e Desenvolvimento de Sistemas - FATEC IPIRANGA :man_student:
 
- - Atuando como QA | Automatizador de Testes Jr - Yaman 👨‍💻
+ - Programador Full Stack Developer | Test Automation 👨‍💻
 
  - Apaixonado por Tecnologia :heart_eyes: 
  
