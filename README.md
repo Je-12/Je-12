@@ -38,9 +38,9 @@
    | :---------------------: | :-------------------------: |
    |    *Criatividade*       |           *HTML 5*          |
    | *Gestão de Pessoas*     |           *CSS 3*           |
-   | *Ética Profissional*    |        *TypeScript*         |
-   |  *Espirito de equipe*   |           *Java*            |
-   | *Pratica em Solucionar* |          *NodeJS*           |
+   | *Ética Profissional*    |         *Bootstrap*         |
+   |  *Espirito de equipe*   |         *TypeScript*        |
+   | *Pratica em Solucionar* |           *Java*            |
    |   *Ótimo em motivar*    |   *Cucumber/Gherkin (BDD)*  |
    |      *Paciência*        |          *Selenium*         |
    |    *Flexibilidade*      |         *JavaScript*        |
